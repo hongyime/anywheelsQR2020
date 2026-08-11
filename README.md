@@ -1,4 +1,9 @@
 # anywheels-sg-code
+
+Live demo: https://hongyime.github.io/anywheelsQR2020/
+
+![Project screenshot](./screenshot.png)
+
 code to generate QR codes for rental bikes and parking locations.
 
 <p align="left">
