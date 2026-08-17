@@ -9,6 +9,7 @@ build/
 __pycache__/
 .pytest_cache/
 
+
 # AI / editor dot directories (managed via sourcerepo)
 .*
 !.github/
