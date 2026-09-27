@@ -10,3 +10,5 @@
 - bikes.py contains public Anywheel bike rental URLs — not credentials
 - Treat as archived legacy utility
 - No action required
+
+- 2026-09-27: Remove the optional personal security contact and preserve private reporting guidance through a reviewed maintenance pull request.
